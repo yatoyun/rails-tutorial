@@ -12,6 +12,9 @@ gem "jbuilder",        ">=2.11.5"
 gem "puma",            ">=5.6.8"
 gem "bootsnap",        ">=1.16.0", require: false
 gem "sqlite3",         "~> 1.4", ">=1.6.1"
+gem 'faker',          ">=2.21.0"
+gem "will_paginate",           "3.3.1"
+gem "bootstrap-will_paginate", ">=1.0.0"
 gem 'bootstrap-sass'
 gem "bcrypt"
 
